@@ -3,3 +3,4 @@ ERD
 인터페이스 정의서
 UseCase Diagram
 ClassDiagram
+SequenceDiagram
